@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[E-shop]]></title>
+        <description><![CDATA[E-shop]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 15:31:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Foreign reserves]]></title>
+            <description><![CDATA[<article><h1>Foreign reserves</h1><p>Want more from The Economist? Visit The Economist e-store and you'll find a range of carefully selected products for business and pleasure, Economist books and diaries, and much more</p><img src="http://cdn.static-economist.com/sites/default/files/imagecache/original-size/20160820_INT500.png"></article>]]></description>
+            <link>http://www.economist.com/news/markets-and-data/21705358-foreign-reserves</link>
+            <guid isPermaLink="false">8bed82a9-b70b-491a-99f5-b8bbd7cf4cfb</guid>
+            <pubDate>Thu, 18 Aug 2016 15:31:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
