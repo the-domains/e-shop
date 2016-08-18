@@ -1,0 +1,14 @@
+layout_spectrum: 0.32196182385087013
+typography_spectrum: 0.18966274126432836
+color:
+  brandStrength: 0.5049349444452673
+  lightness: 0.9146379544399679
+  saturation: 0.8650737470015883
+  rhythmicContrast: 0.401135649997741
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: E-shop
