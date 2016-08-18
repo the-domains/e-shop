@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[E-shop]]></title>
         <description><![CDATA[E-shop]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/e-shop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 15:31:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 15:31:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/e-shop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[H&amp;M:s första storblankare sedan 2013]]></title>
+            <description><![CDATA[<article><h1>H&amp;M:s första storblankare sedan 2013</h1><p>Klädkedjan Hennes & Mauritz har för första gången sedan 2013 fått en storblankare. Det skriver ägarspecialisten Holdings på Twitter. AQR Capital har dykt upp som ny storblankare med en position motsvarande 0,5 procent av kapitalet eller 2,2 miljarder kronor, enligt Holdings.</p><img src="http://img02.static.images-di.se/SiteImages/2015/12/15/thumbnails/hennes-och-mauritz-hm-1.jpg"></article>]]></description>
+            <link>http://www.di.se/artiklar/2016/8/18/hms-forsta-storblankare-sedan-2013/</link>
+            <guid isPermaLink="false">754ec049-decd-406c-b496-fe2f84dd3e6a</guid>
+            <pubDate>Thu, 18 Aug 2016 15:31:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Foreign reserves]]></title>
-            <description><![CDATA[<article><h1>Foreign reserves</h1><p>Want more from The Economist? Visit The Economist e-store and you'll find a range of carefully selected products for business and pleasure, Economist books and diaries, and much more</p><img src="http://cdn.static-economist.com/sites/default/files/imagecache/original-size/20160820_INT500.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Foreign reserves</h1><p>Want more from The Economist? Visit The Economist e-store and you'll find a range of carefully selected products for business and pleasure, Economist books and diaries, and much more</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/77703cf98c4148389352ed61c191d09c/noop.png?input=http%3A%2F%2Fcdn.static-economist.com%2Fsites%2Fdefault%2Ffiles%2Fimagecache%2Foriginal-size%2F20160820_INT500.png"></article>]]></description>
             <link>http://www.economist.com/news/markets-and-data/21705358-foreign-reserves</link>
             <guid isPermaLink="false">8bed82a9-b70b-491a-99f5-b8bbd7cf4cfb</guid>
             <pubDate>Thu, 18 Aug 2016 15:31:03 GMT</pubDate>
